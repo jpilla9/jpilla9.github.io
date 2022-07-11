@@ -1,6 +1,4 @@
----
-layout: default
-title: Home
----
+# Jaydeep Pillai
 
-# Hi my name is Jay! I am a senior physics student at the University of Illinois Urbana-Champaign
+
+Welcome! I am a senior studying physics and mathematics at the University of Illinois Urbana-Champaign. 
